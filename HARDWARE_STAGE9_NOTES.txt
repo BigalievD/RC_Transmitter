@@ -1,0 +1,1 @@
+Stage 9. Apply over stage 8. Names aname1..10 map to POT_1..4, STICK_LZ/RZ, LINEAR_1/2, SLIDER_L/R. SourceId unchanged. Only labels are refreshed; no physical channel changes. Build not tested.

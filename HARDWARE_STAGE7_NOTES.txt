@@ -1,0 +1,5 @@
+Based on 021126.zip + stage6 cumulative + latest Switch Swap Center fix.
+Adds two independent stick buttons on MCP23017 using Preferences(hwsettings): mcpBtnL and mcpBtnR, 0..31, 255=unassigned.
+Fixes switch Up/Down condition polarity to match InputManager MCP23017 interpretation.
+The physical pin assignments still must be configured explicitly.
+PlatformIO compilation and hardware testing were not performed.

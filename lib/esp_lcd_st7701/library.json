@@ -1,0 +1,11 @@
+{
+  "name": "esp_lcd_st7701",
+  "version": "2.0.2",
+  "build": {
+    "flags": [
+      "-I .",
+      "-I include",
+      "-I priv_include"
+    ]
+  }
+}

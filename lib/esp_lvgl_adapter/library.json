@@ -1,0 +1,23 @@
+{
+  "name": "esp_lvgl_adapter",
+  "version": "4.0.0",
+  "build": {
+    "srcDir": "src",
+    "srcFilter": [
+      "+<adapter/*>",
+      "+<display/display_manager.c>",
+      "+<display/display_te_sync.c>",
+      "+<display/bridge/common/*>",
+      "+<display/bridge/v9/*>",
+      "+<input/esp_lv_adapter_input_touch.c>"
+    ],
+    "flags": [
+      "-I include",
+      "-I src/adapter",
+      "-I src/display",
+      "-I src/display/ports",
+      "-I src/display/bridge"
+    ],
+    "libLDFMode": "chain"
+  }
+}

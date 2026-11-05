@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xtensa-esp32s3-elf-nm)",
+      "WebFetch(domain:www.waveshare.com)",
+      "Bash(/c/Users/Localadm/.platformio/penv/Scripts/platformio.exe run *)"
+    ]
+  }
+}

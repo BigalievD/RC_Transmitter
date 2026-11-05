@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.cache/
+.dummy
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.vscode/ipch/
+.vscode/.browse.c_cpp.db*
+
+# Архивы и бэкапы внутри проекта
+*.zip

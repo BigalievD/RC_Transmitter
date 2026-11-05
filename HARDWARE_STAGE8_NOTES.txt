@@ -1,0 +1,1 @@
+Stage 8: persist ten existing analog Hardware text areas (S1-S4, Ext1-2, L1-2, Slider1-2) in Preferences hwsettings/aname1..10. Existing keyboard reused. No generated EEZ files edited. Physical ADS mapping and SourceResolver naming unchanged, pending explicit mapping. Based on stage 7 cumulative actions.cpp.
