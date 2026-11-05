@@ -23,7 +23,7 @@ void loadScreen(enum ScreensEnum screenId) {
 
 void ui_init() {
     create_screens();
-    loadScreen(SCREEN_ID_SCR_STICKS);
+    loadScreen(SCREEN_ID_SCR_MAIN);
 
 }
 

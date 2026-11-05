@@ -84,6 +84,9 @@ extern void action_open_scr_vars(lv_event_t * e);
 extern void action_open_scr_hw(lv_event_t * e);
 extern void action_wifi_on_off(lv_event_t * e);
 extern void action_mixes_trim_on_off(lv_event_t * e);
+extern void action_show_stick_mode_select_panel(lv_event_t * e);
+extern void action_show_co_select_panel(lv_event_t * e);
+extern void action_f4chf_on_off(lv_event_t * e);
 
 #ifdef __cplusplus
 }
